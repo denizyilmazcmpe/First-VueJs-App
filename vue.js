@@ -2,7 +2,7 @@ new Vue({
     el : "#app",
     data : {
         title : "Merhaba ben Deniz",
-        description: "Bu bir açıklamadır....."
+        description: "Bu bir açıklamadır..."
     },
     methods : {
         changeTitle: function(event){
